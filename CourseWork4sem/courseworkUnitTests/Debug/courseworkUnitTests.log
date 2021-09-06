@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  courseworkUnitTests.cpp
+C:\Users\Adem\source\repos\CourseWork4sem\CourseWork4Sem\list.h(181,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseWork4sem\CourseWork4Sem\list.h(200,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseWork4sem\CourseWork4Sem\list.h(201,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseWork4sem\CourseWork4Sem\list.h(213,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseWork4sem\CourseWork4Sem\coursework.cpp(232,27): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\Adem\source\repos\CourseWork4sem\Debug\courseworkUnitTests.lib и объект C:\Users\Adem\source\repos\CourseWork4sem\Debug\courseworkUnitTests.exp
+  courseworkUnitTests.vcxproj -> C:\Users\Adem\source\repos\CourseWork4sem\Debug\courseworkUnitTests.dll

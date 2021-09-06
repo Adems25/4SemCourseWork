@@ -1,0 +1,7 @@
+﻿  coursework.cpp
+C:\Users\Adem\source\repos\CourseWork4sem\CourseWork4sem\list.h(181,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseWork4sem\CourseWork4sem\list.h(200,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseWork4sem\CourseWork4sem\list.h(201,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseWork4sem\CourseWork4sem\list.h(213,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\source\repos\CourseWork4sem\CourseWork4sem\coursework.cpp(232,27): warning C4018: <: несоответствие типов со знаком и без знака
+  CourseWork4sem.vcxproj -> C:\Users\Adem\source\repos\CourseWork4sem\Debug\CourseWork4sem.exe
